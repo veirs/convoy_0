@@ -751,7 +751,7 @@
      <rect>
       <x>470</x>
       <y>130</y>
-      <width>231</width>
+      <width>241</width>
       <height>20</height>
      </rect>
     </property>
@@ -1034,7 +1034,7 @@
      </font>
     </property>
     <property name="plainText">
-     <string>Percent of Time RL less than X axis value</string>
+     <string>Percent of Time RL less than x-axis value</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_21">
